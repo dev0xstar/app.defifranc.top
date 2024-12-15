@@ -74,7 +74,8 @@
                   className: "table-debt-wrap",
                   children: [
                     (0, g.jsx)("h2", { children: "APR" }),
-                    (0, g.jsxs)("p", { children: [d, " %"] }),
+                    // (0, g.jsxs)("p", { children: [d, " %"] }),
+                    (0, g.jsxs)("p", { children: [0, " %"] }),
                   ],
                 }),
               }),
