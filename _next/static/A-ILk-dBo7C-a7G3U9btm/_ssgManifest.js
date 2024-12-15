@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fborrow\u002Fmanage\u002F[...asset]","\u002Fstability-pool\u002Fstake\u002F[asset]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
